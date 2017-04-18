@@ -34,7 +34,7 @@ Some of the UI widgets and design patterns used in the mobile app include:
 [Material guidelines][2]
 * Use of the [RecyclerView][3] widget
 * [CoordinatorLayout][4] and [FloatingActionButton][5] from the [Design Support library][6]
-* Material animations such as activity and shared element transitions
+* Material animations such as activity and Shared Element Transition for the RecyclerView
 
 [1]: https://developer.android.com/tools/support-library/features.html#v7-appcompat
 [2]: http://www.google.com/design/spec/animation/meaningful-transitions.html
